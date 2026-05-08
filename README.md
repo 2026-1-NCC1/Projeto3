@@ -12,7 +12,7 @@ Vide tutoriais do PI.
 
 # Flood Water
 
-## Nome do Grupo
+## Macacos da FECAP
 
 ## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Guilherme Alves</a>, <a href="https://www.linkedin.com/in/victorbarq/">Thomaz de Melo</a>, <a href="https://www.linkedin.com/in/victorbarq/">Marcos Paulo</a>, <a href="https://www.linkedin.com/in/victorbarq/">Luigi Colaneri</a>
 
@@ -73,15 +73,13 @@ Para abrir este projeto você necessita das seguintes ferramentas:
 Unity Hub
 Unity (v. 6000.0.38f1)
 # Passos para rodar o projeto  
-  
+
+```sh
 1. Abra o Unity Hub  
 2. Clique em "Open"  
 3. Selecione a pasta do projeto  
 4. Abra o projeto  
 5. Clique em "Play" dentro da Unity
-
-```sh
-Coloque código do prompt de comnando se for necessário
 ```
 
 <b>Windows:</b>
