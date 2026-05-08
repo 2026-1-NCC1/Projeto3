@@ -66,8 +66,6 @@ Há também 4 pastas que seguem da seguinte forma:
 
 ## 🛠 Instalação
 
-<b>Android:</b>
-
 Para abrir este projeto você necessita das seguintes ferramentas:
 
 Unity Hub
