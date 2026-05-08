@@ -26,11 +26,10 @@
   Game by PorAguaAbaixo is licensed under CC BY-ND 4.0
 </p>
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+
 <br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
+Flood Water é um jogo de puzzle e sobrevivência em primeira pessoa no qual o jogador acorda em uma casa desconhecida que está sendo inundada por uma torneira aberta no banheiro. Sem instruções explícitas, ele precisa explorar o ambiente, encontrar uma chave escondida e resolver o problema antes que a água atinja níveis críticos — criando uma experiência de tensão crescente onde cada segundo conta.
+O jogo se diferencia por oferecer uma experiência não linear: os itens mudam de posição a cada partida, não existe um único caminho correto e o ambiente se transforma progressivamente conforme a água sobe, limitando o movimento e bloqueando o acesso a objetos. Eventos inesperados, como a explosão do gerador que apaga todas as luzes da casa, forçam o jogador a se adaptar constantemente, tornando cada sessão uma experiência diferente da anterior.
 <br><br>
 
 ## 🛠 Estrutura de pastas
