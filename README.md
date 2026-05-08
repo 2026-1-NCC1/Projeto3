@@ -1,7 +1,5 @@
-```sh
-Utilize o site <https://www.toptal.com/developers/gitignore> para gerar seu arquivo gitignore e apague este campo.
 
-Vide tutoriais do PI.
+```
 ```
 
 # FECAP - Fundação de Comércio Álvares Penteado
@@ -10,28 +8,27 @@ Vide tutoriais do PI.
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Nome do Projeto
+# Flood Water
 
-## Nome do Grupo
+## Por água abaixo
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Goku Sayajin</a>, <a href="https://www.linkedin.com/in/victorbarq/">Saitama One</a>, <a href="https://www.linkedin.com/in/victorbarq/">Ikki de Fenix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
+## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Guilherme Alves</a>, <a href="https://www.linkedin.com/in/victorbarq/">Thomaz de Melo</a>, <a href="https://www.linkedin.com/in/victorbarq/">Marcos Paulo</a>, <a href="https://www.linkedin.com/in/victorbarq/">Luigi Colaneri</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Francisco de Souza Escobar</a>, <a href="https://www.linkedin.com/in/victorbarq/">Renata Muniz Do Nascimento</a>, <a href="https://www.linkedin.com/in/victorbarq/">Joao Francisco Trencher Martins</a>, <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/victorbarq/">Gilles Pedroza Leite</a>
 
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+  <img src="https://raw.githubusercontent.com/2026-1-NCC1/Projeto3/main/imagens/Flood-Water-image.png" alt="Flood Water">
+  <br><br>
+  <strong>Game by PorAguaAbaixo</strong>
+  <br>
+  Game by PorAguaAbaixo is licensed under CC BY-ND 4.0
 </p>
 
+<p>Flood Water é um jogo de puzzle e sobrevivência em primeira pessoa no qual o jogador acorda em uma casa desconhecida que está sendo inundada por uma torneira aberta no banheiro. Sem instruções explícitas, ele precisa explorar o ambiente, encontrar uma chave escondida e resolver o problema antes que a água atinja níveis críticos — criando uma experiência de tensão crescente onde cada segundo conta.</p>
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
-<br><br>
+<p>O jogo se diferencia por oferecer uma experiência não linear: os itens mudam de posição a cada partida, não existe um único caminho correto e o ambiente se transforma progressivamente conforme a água sobe, limitando o movimento e bloqueando o acesso a objetos. Eventos inesperados, como a explosão do gerador que apaga todas as luzes da casa, forçam o jogador a se adaptar constantemente, tornando cada sessão uma experiência diferente da anterior.</p>
 
 ## 🛠 Estrutura de pastas
 
@@ -66,13 +63,19 @@ Há também 4 pastas que seguem da seguinte forma:
 
 ## 🛠 Instalação
 
-<b>Android:</b>
+Para abrir este projeto você necessita das seguintes ferramentas:
 
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
+Unity Hub e
+Unity (v. 6000.0.38f1)
+
+# Passos para rodar o projeto  
 
 ```sh
-Coloque código do prompt de comnando se for necessário
+1. Abra o Unity Hub  
+2. Clique em "Open"  
+3. Selecione a pasta do projeto  
+4. Abra o projeto  
+5. Clique em "Play" dentro da Unity
 ```
 
 <b>Windows:</b>
