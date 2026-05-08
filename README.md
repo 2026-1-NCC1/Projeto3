@@ -66,7 +66,7 @@ Há também 4 pastas que seguem da seguinte forma:
 
 Para abrir este projeto você necessita das seguintes ferramentas:
 
-Unity Hub
+Unity Hub e
 Unity (v. 6000.0.38f1)
 
 # Passos para rodar o projeto  
