@@ -20,9 +20,10 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/2026-1-NCC1/Projeto3/main/imagens/Flood-Water-image.png" alt="Flood Water">
-</p>
-<p align="center">
+  <br><br>
   <strong>Game by PorAguaAbaixo</strong>
+  <br>
+  Game by PorAguaAbaixo is licensed under CC BY-ND 4.0
 </p>
 
 De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
