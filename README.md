@@ -12,7 +12,7 @@
 
 ## Por água abaixo
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Guilherme Alves</a>, <a href="https://www.linkedin.com/in/victorbarq/">Thomaz de Melo</a>, <a href="https://www.linkedin.com/in/victorbarq/">Marcos Paulo</a>, <a href="https://www.linkedin.com/in/victorbarq/">Luigi Colaneri</a>
+## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Guilherme Alves Paulo</a>, <a href="https://www.linkedin.com/in/victorbarq/">Thomaz Homem de Melo Oliveira</a>, <a href="https://www.linkedin.com/in/victorbarq/">Marcos Paulo Pereira de Souza</a>, <a href="https://www.linkedin.com/in/victorbarq/">Luigi Sales Colaneri</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Francisco de Souza Escobar</a>, <a href="https://www.linkedin.com/in/victorbarq/">Renata Muniz Do Nascimento</a>, <a href="https://www.linkedin.com/in/victorbarq/">Joao Francisco Trencher Martins</a>, <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/victorbarq/">Gilles Pedroza Leite</a>
 
